@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    margin: 50px;
+}
+
+div {
+    text-align: center;
+    margin: 10px;
+}
+
+button {
+    padding: 10px 20px;
+}
+
+p {
+    margin: 10px 0;
+}
